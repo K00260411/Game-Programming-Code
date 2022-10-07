@@ -1,0 +1,26 @@
+﻿  Timber.cpp
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(151,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(155,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(230,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(231,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(245,14): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(300,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(304,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(335,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(339,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(357,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(382,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(386,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(404,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(428,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(432,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(450,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(474,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(478,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(497,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-2-Animating-sprites\SFML-2-Animating-sprites\Timber.cpp(121,7): warning C4101: 'reachPeaks': unreferenced local variable
+  SFML-2-Animating-sprites.vcxproj -> C:\GP\SFML\sfml code\SFML-2-Animating-sprites\Debug\SFML-2-Animating-sprites.exe
