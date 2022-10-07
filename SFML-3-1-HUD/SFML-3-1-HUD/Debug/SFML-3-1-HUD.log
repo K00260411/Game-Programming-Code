@@ -1,0 +1,11 @@
+﻿  Timber.cpp
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(111,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(241,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(245,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(274,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(278,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(305,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(309,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(336,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GP\SFML\sfml code\SFML-3-1-HUD\Chapter03\code\Timber.cpp(340,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SFML-3-1-HUD.vcxproj -> C:\GP\SFML\sfml code\SFML-3-1-HUD\Debug\SFML-3-1-HUD.exe
